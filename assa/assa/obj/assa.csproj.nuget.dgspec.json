@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rasulaj\\Desktop\\assa\\assa\\assa.csproj": {}
+    "C:\\Users\\rasulaj\\Desktop\\backend\\assa\\assa\\assa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rasulaj\\Desktop\\assa\\assa\\assa.csproj": {
+    "C:\\Users\\rasulaj\\Desktop\\backend\\assa\\assa\\assa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rasulaj\\Desktop\\assa\\assa\\assa.csproj",
+        "projectUniqueName": "C:\\Users\\rasulaj\\Desktop\\backend\\assa\\assa\\assa.csproj",
         "projectName": "assa",
-        "projectPath": "C:\\Users\\rasulaj\\Desktop\\assa\\assa\\assa.csproj",
+        "projectPath": "C:\\Users\\rasulaj\\Desktop\\backend\\assa\\assa\\assa.csproj",
         "packagesPath": "C:\\Users\\rasulaj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rasulaj\\Desktop\\assa\\assa\\obj\\",
+        "outputPath": "C:\\Users\\rasulaj\\Desktop\\backend\\assa\\assa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -50,6 +50,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.5, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
             }
           },
           "imports": [
