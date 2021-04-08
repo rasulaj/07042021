@@ -14,5 +14,9 @@ namespace assa.Data
         {
 
         }
+
+        public DbSet<Slider> Sliders { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Tag> Tags { get; set; }
     }
 }

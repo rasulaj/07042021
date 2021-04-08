@@ -10,7 +10,6 @@
     <Folder Include="Areas\Manage\Models\" />
     <Folder Include="Areas\Manage\Views\" />
     <Folder Include="Data\Enums\" />
-    <Folder Include="Manage\ViewModels\" />
     <Folder Include="Models\" />
     <Folder Include="Areas\" />
     <Folder Include="wwwroot\assets\" />
@@ -19,6 +18,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.4" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    <PackageReference Include="System.Runtime" Version="4.3.1" />
   </ItemGroup>
 
 </Project>
